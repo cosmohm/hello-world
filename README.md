@@ -1,4 +1,4 @@
 # hello-world
 Intro
 
-Discovering the world of coding.
+Discovering the world of code.
